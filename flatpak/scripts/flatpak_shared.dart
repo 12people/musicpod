@@ -3,6 +3,8 @@ import 'dart:io';
 
 import 'package:http/http.dart' as http;
 
+// ignore_for_file: depend_on_referenced_packages
+
 /// Shared files for the two Flatpak-related scripts.
 
 class Release {
